@@ -1,9 +1,13 @@
 dpos共识算法，基于以太坊的修改的go版本
 
 linapex 曹一峰全新翻译此项目，附带注释
+
 邮箱:linapex@163.com
+
 微信：superexc
+
 QQ群：128148617
+
 
 ## Go Ethereum
 
